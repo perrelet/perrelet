@@ -1,6 +1,6 @@
 # Jamie Perrelet
 
-Physicist by training, software engineer by trade. I'm co-founder and technical director of [Digitalis Web Corp](https://digitalis.ca), a studio in Nelson, BC, where we build and run the platforms organisations do their work on: applications on LatticeWP, our own WordPress framework, the servers under them and, since 2026, AI agents working inside them alongside our clients' staff.
+Physicist by training, software engineer by trade. As co-founder and technical director of [Digitalis Web Corp](https://digitalis.ca) in Nelson, BC, I build and run the platforms organisations do their work on: applications on LatticeWP (our own WordPress framework), the servers under them and AI agents working inside them alongside our clients' staff. Lately quantum information is calling me back to physics.
 
 ## Open source
 
@@ -15,6 +15,6 @@ From 2016 to 2021 I toured as [Fractal Teapot](https://fractalteapot.com), writi
 
 ## Before
 
-I taught Digital Art and Technology at the University of Plymouth (2018 to 2020) and on the MSc Holistic Science at Schumacher College (2014 to 2018). I trained as a physicist at Imperial College London, and lately quantum information is calling me back.
+I taught Digital Art and Technology at the University of Plymouth (2018 to 2020) and on the MSc Holistic Science at Schumacher College (2014 to 2018). I studied physics at Imperial College London and holistic science at Schumacher.
 
-[LinkedIn](https://www.linkedin.com/in/jperrelet/) · [digitalis.ca](https://digitalis.ca)
+[LinkedIn](https://www.linkedin.com/in/jperrelet/)
