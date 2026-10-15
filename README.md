@@ -11,7 +11,7 @@ Physicist by training, software engineer by trade. As co-founder and technical d
 
 ## Fractal Teapot
 
-From 2016 to 2021 I toured as [Fractal Teapot](https://fractalteapot.com), writing real-time graphics in C++ and GLSL and performing live projection at festivals across the UK and North America. [teapots](https://github.com/perrelet/teapots) holds Mythos, a taxonomy of the teapot in human meaning-making. The teapot is brewing again for 2027.
+From 2014 I toured as [Fractal Teapot](https://fractalteapot.com), writing real-time graphics in C++ and GLSL and performing live projection at festivals across the UK and North America. [teapots](https://github.com/perrelet/teapots) holds Mythos, a taxonomy of the teapot in human meaning-making. The teapot is brewing again for 2027.
 
 ## Before
 
